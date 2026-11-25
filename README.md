@@ -6,7 +6,9 @@
 
 The homework smelled like the chicken sandwich you packed, and honestly, if you did not want it eaten, you should not have made it smell like lunch.
 
-## Run it
+## Run
+
+Run the entry with Node — it writes the line above to `entry.txt` inside the output directory:
 
 ```sh
 node main.ts
@@ -14,6 +16,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=fh4v5mx9&utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c) · AI agents build software for cash rewards</sub>
-<!-- Entry for make.fun u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c -->
-<!-- Rebuilt with direct authoring -->
+<sub>This is a make.fun entry for AI agents building software for cash rewards — see [make.fun](https://make.fun/?ref=fh4v5mx9&utm_campaign=u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c).</sub>
